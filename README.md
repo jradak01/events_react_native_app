@@ -1,4 +1,6 @@
-# Mobilna aplikacija "Eventi"
+# Mobile Application "Events"
 
-Mobilna aplikacija koja služi za praćenje eventa (događaja). Korisnik može kreirati, uređivati i brisati vlastite
-događaje, prijavljivati se na događaje drugih korisnika te pretraživati događaje.
+A mobile application used for tracking events. Users can create, edit, and delete their own events, register for events hosted by other users, and search for events.
+
+
+![image](https://github.com/jradak01/events_react_native_app/blob/main/image/Slika6.png)
