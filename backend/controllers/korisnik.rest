@@ -1,0 +1,9 @@
+POST http://localhost:3001/api/korisnici
+Content-Type: application/json
+
+{
+    "username" : "ivana",
+    "ime" : "Ivana",
+    "pass" : "tajna",
+    "email": "ivana@gmail.com"
+}
